@@ -1,0 +1,21 @@
+{
+  "name": "asyncronismo",
+  "version": "1.0.0",
+  "description": "asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callback",
+    "promises",
+    "async",
+    "await"
+  ],
+  "author": "Fabio Rojas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
